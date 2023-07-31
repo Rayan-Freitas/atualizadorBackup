@@ -1,2 +1,2 @@
 sleep 10s
-nohup /SDSuper/atualizadorBackup/atualizador
+nohup /SDSuper/atualizadorBackup/atualizador -r
